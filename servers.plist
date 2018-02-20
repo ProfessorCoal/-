@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lenovo-Yoga-2-11</key>
+	<dict>
+		<key>AutoLogin</key>
+		<string>YES</string>
+		<key>Cloud Drive</key>
+		<string>Box</string>
+		<key>Location</key>
+		<string>192.168.1.6</string>
+		<key>Login</key>
+		<string>*\professorcoal</string>
+		<key>Name</key>
+		<string></string>
+		<key>NickName</key>
+		<string>Lenovo-Yoga-2-11</string>
+		<key>Password</key>
+		<string>June15th2002</string>
+		<key>Port</key>
+		<string>22</string>
+		<key>Script Path</key>
+		<string>~/.</string>
+		<key>ServerType</key>
+		<string>SSH</string>
+	</dict>
+</dict>
+</plist>
