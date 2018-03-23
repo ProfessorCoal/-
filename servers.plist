@@ -25,5 +25,31 @@
 		<key>ServerType</key>
 		<string>SSH</string>
 	</dict>
+<dict>
+	<key>Apple-MacBook-Pro-2-2</key>
+	<dict>
+		<key>AutoLogin</key>
+		<string>YES</string>
+		<key>Cloud Drive</key>
+		<string>OwnCloud</string>
+		<key>Location</key>
+		<string>127.0.0.1</string>
+		<key>Login</key>
+		<string>professorcoal</string>
+		<key>Name</key>
+		<string></string>
+		<key>NickName</key>
+		<string>MacBook_Pro</string>
+		<key>Password</key>
+		<string>June15th2002</string>
+		<key>Port</key>
+		<string>22</string>
+		<key>Script Path</key>
+		<string>~/.</string>
+		<key>ServerType</key>
+		<string>SSH</string>
+	</dict>
 </dict>
 </plist>
+
+
